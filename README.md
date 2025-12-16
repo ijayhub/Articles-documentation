@@ -10,15 +10,6 @@ A collection of technical articles and clear, beginner-friendly documentation fo
 * Technical writing focused on clarity and accuracy
 * Personal Experience
 
-## Featured Article
-
-### Learn Cloud Security Fundamentals in AWS
-
-An introductory guide that explains how security works in AWS, including the shared responsibility model, IAM basics, MFA, and real service examples like S3 and RDS.
-
-Read the full article here  
-https://www.freecodecamp.org/news/learn-cloud-security-fundamentals-in-aws-a-guide-for-beginners/
-
 ## Purpose of This Repository
 
 This repository serves as a personal knowledge base and writing portfolio. All articles are written with a focus on:
