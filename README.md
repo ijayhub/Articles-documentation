@@ -8,6 +8,7 @@ A collection of technical articles and clear, beginner-friendly documentation fo
 * DevOps and infrastructure topics
 * Step-by-step guides and explanations
 * Technical writing focused on clarity and accuracy
+* Personal Experience
 
 ## Featured Article
 
