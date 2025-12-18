@@ -19,6 +19,12 @@ This repository serves as a personal knowledge base and writing portfolio. All a
 * Beginner-friendly language
 * Real-world relevance
 
+## Original Publication Notice
+
+This article was originally published at [Linktree Bio](https://linktr.ee/i_jeoma). It is republished here by the author for reference and knowledge purposes.
+
+Credit must be given to the author if this article is used or referenced
+
 ## Author
 
 Ijeoma Igboagu  
