@@ -23,7 +23,7 @@ This repository serves as a personal knowledge base and writing portfolio. All a
 
 This article was originally published at [Linktree Bio](https://linktr.ee/i_jeoma). It is republished here by the author for reference and knowledge purposes.
 
-Credit must be given to the author if this article is used or referenced
+You'll need to give credit to the author if this article is used or referenced.
 
 ## Author
 
